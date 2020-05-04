@@ -1,5 +1,3 @@
-A solution for [mountain car problem](https://gym.openai.com/envs/MountainCar-v0/) via Q-learning with algorithmic and deep approaches.
-
 ## Contents
 * [Requirements](#requirements)
 * [How to run](#how-to-run)
